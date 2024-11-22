@@ -1,0 +1,22 @@
+# Binary files
+/bin/
+/obj/
+*.exe
+*.out
+*.so
+
+# Vendor directory (if using Go modules)
+/vendor/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Go build cache
+*.test
+*.tmp
